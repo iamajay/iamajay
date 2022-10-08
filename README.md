@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamajay" alt="iamajay" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **How to avoid writing BUG 🤭**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamajay](https://github.com/iamajay)
 
